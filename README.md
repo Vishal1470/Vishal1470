@@ -70,8 +70,7 @@
 • Data Visualization (Tata – Forage) 
 
 ---
-## 🐍 Watch My Contribution Snake 
-![snake gif](https://github.com/Vishal1470/Vishal1470/blob/output/github-contribution-grid-snake-dark.svg)
-
+## 🐍 Watch My Contribution Snake
+[![snake gif](https://raw.githubusercontent.com/Vishal1470/Vishal1470/main/output/github-contribution-grid-snake-dark.svg)](https://github.com/Vishal1470)
 
 ⭐ **"Code. Learn. Innovate."** – Always learning, always building 🚀
