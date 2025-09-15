@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="[https://github.com/Vishal1470]">
-   <img src="https://img.shields.io/badge/github-D14836?style=flat&logo=github&logoColor=white" />
+   <img src="https://img.shields.io/badge/github-D14836?style=flat&logo=github&logoColor=black" />
 
   </a>
   <a href="mailto:vishal1407patil@gmail.com">
