@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="[https://github.com/Vishal1470]">
-   <img src="https://img.shields.io/badge/github-D14836?style=flat&logo=gmail&logoColor=white" />
+   <img src="https://img.shields.io/badge/github-D14836?style=flat&logo=github&logoColor=white" />
 
   </a>
   <a href="mailto:vishal1407patil@gmail.com">
@@ -62,11 +62,11 @@
 ---
 
 ## 📜 Certifications
-• Machine Learning with Python – IBM (via CognitiveClass.ai)
-• Data Science Simulation (British Airways – Forage)
-• GenAI Data Analytics (Tata – Forage)
-• Tech Simulation (Deloitte)
-• Python Essential 1 (Cisco Networking Academy)
+• Machine Learning with Python – IBM (via CognitiveClass.ai)<p><br>
+• Data Science Simulation (British Airways – Forage)<p><br>
+• GenAI Data Analytics (Tata – Forage)<p><br>
+• Tech Simulation (Deloitte)<p><br>
+• Python Essential 1 (Cisco Networking Academy)<p><br>
 • Data Visualization (Tata – Forage) 
 
 ---
