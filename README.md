@@ -9,8 +9,8 @@
 
 <p align="center">
  <a href="https://github.com/Vishal1470" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=Vishal1470&label=Profile%20views&color=00FFFF&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"  />
-  <img src="https://komarev.com/ghpvc/?username=chetanshimpi11&label=Profile%20views&color=00FFFF&style=flat" alt="Profile views" />
 </a>
 </a>
   <a href="https://vishal1407patil@gmail.com">
